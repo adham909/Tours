@@ -4,7 +4,7 @@
 
 # Description
 
-Small task using react.js from it you could see our tours and trips all over the world!.
+Small task using react.js from it you could see our tours and trips all over the world!.<br>
 You can ckick "Not interested" to delete this tour.
 
 
